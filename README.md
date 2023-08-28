@@ -4,10 +4,9 @@ Welcome to my cybersecurity portfolio! I'm passionate about securing digital env
 
 ## Projects
 
-### Project 1: Threat Detection System
+### [Project 1: Analyze Network Traffic with TCPDump](https://github.com/JamianWorrell/tcpdumpproject)
 
-
-In this project, I developed an advanced threat detection system that uses machine learning to identify potential security breaches in real-time
+I used tcpdump to capture and analyze TCP traffic. Extracted the packets to a dump file using a custom shell script and then uploaded the file into Wireshark. 
 
 ### Project 2: Penetration Testing
 
@@ -17,27 +16,13 @@ I conducted penetration testing for a financial institution, identifying vulnera
 ## Skills
 
 - Network Security
-- Malware Analysis
 - Penetration Testing
-- Incident Response
-- Security Auditing
 - Cryptography
 
 ## Certifications
 
-- Certified Information Systems Security Professional (CISSP)
-- Certified Ethical Hacker (CEH)
-- CompTIA Security+
-- Cisco Certified Network Associate (CCNA) - Security
+- CompTIA A+
 
-## Contact
-
-Feel free to reach out to me at [email@example.com](mailto:email@example.com).
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/)!
-
-
-## Contact
 <div align="center">
   <h2>🌐 Socials:</h2>
   <a href="https://linkedin.com/in/www.linkedin.com/in/jamianworrell">
