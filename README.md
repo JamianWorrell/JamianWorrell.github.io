@@ -4,9 +4,6 @@
   </a>
 </div>
 
-
-# Your Name's Portfolio
-
 Welcome to my portfolio! I'm passionate about [your interests/skills here], and I love creating [projects/works] that [describe what your projects achieve].
 
 ## Projects
