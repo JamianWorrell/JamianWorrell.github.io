@@ -7,7 +7,7 @@ Welcome to my cybersecurity portfolio! I'm passionate about securing digital env
 ### Project 1: Threat Detection System
 
 
-In this project, I developed an advanced threat detection system that uses machine learning to identify potential security breaches in real-time.
+In this project, I developed an advanced threat detection system that uses machine learning to identify potential security breaches in real-time
 
 ### Project 2: Penetration Testing
 
