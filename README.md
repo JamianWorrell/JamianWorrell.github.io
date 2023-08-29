@@ -4,7 +4,7 @@ Welcome to my cybersecurity portfolio! I'm passionate about securing digital env
 
 ## Projects
 
-### [Project 1: Analyze Network Traffic with TCPDump](https://github.com/JamianWorrell/tcpdumpproject)
+### Project 1: Analyze Network Traffic with TCPDump
 
 I used tcpdump to capture and analyze TCP traffic. Extracted the packets to a dump file using a custom shell script and then uploaded the file into Wireshark. 
 
