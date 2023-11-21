@@ -18,10 +18,16 @@ I conducted penetration testing for a financial institution, identifying vulnera
 - Network Security
 - Penetration Testing
 - Cryptography
+- SIEM
+- Cloud Computing
+- ACLS
+- Network Security Groups
 
 ## Certifications
 
 - CompTIA A+
+- CompTIA Network+ (Expected 01/2024)
+- CompTIA Security+ (Expected 2/2024)
 
 <div align="center">
   <h2>🌐 Socials:</h2>
