@@ -6,8 +6,7 @@ Welcome to my cybersecurity portfolio! I'm passionate about securing digital env
 
 [Project 1: Elastic SIEM Lab](https://github.com/JamianWorrell/Elastic-SIEM-Lab)
 
-
-I used tcpdump to capture and analyze TCP traffic. Extracted the packets to a dump file using a custom shell script and then uploaded the file into Wireshark. 
+Elastic Stack SIEM Configuration and Management: Successfully set up and configured Elastic Stack SIEM in a home lab environment. Demonstrated proficiency in deploying a Kali Linux VM, configuring Elastic Agents for log collection, and forwarding data to the SIEM for effective security event monitoring.
 
 ### Project 2: Penetration Testing
 
