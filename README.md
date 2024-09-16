@@ -8,11 +8,6 @@ Welcome to my cybersecurity portfolio! I'm passionate about securing digital env
 
 Elastic Stack SIEM Configuration and Management: Successfully set up and configured Elastic Stack SIEM in a home lab environment. Demonstrated proficiency in deploying a Kali Linux VM, configuring Elastic Agents for log collection, and forwarding data to the SIEM for effective security event monitoring.
 
-### Project 2: Penetration Testing
-
-
-I conducted penetration testing for a financial institution, identifying vulnerabilities and providing recommendations for improving their security posture.
-
 ## Skills
 
 - Network Security
