@@ -20,9 +20,9 @@ Elastic Stack SIEM Configuration and Management: Successfully set up and configu
 
 ## Certifications
 
--CompTIA A+
--Comptia Network+(expected September-2024) 
--Comptia Security+(expected October-2024) 
+- CompTIA A+
+- Comptia Network+(expected September-2024) 
+- Comptia Security+(expected October-2024) 
 
 <div align="center">
   <h2>🌐 Socials:</h2>
